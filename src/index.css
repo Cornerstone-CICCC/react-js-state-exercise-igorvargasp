@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  padding: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.output {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+}
